@@ -1,7 +1,6 @@
-# Moonshine - A Top-Down Lunar Adventure
-
 ![TITLE](https://github.com/KindPlayer2/MoonShine/assets/105063177/8dd9aeb2-035d-43a4-9127-7773574d3351)
 
+### Moonshine - A Top-Down Lunar Wave-game
 
 ## Index
 
