@@ -84,19 +84,14 @@ Moonshine is an action-packed top-down wave-based game set on the moon, where pl
 
 ## Terrain
 
-Discuss the three main areas - Outside, house, and cave.
-
 - **Outside:**
-   - ![Outside](insert_image_url_for_outside_placeholder)
-   - Description: Vast lunar landscape with open spaces and potential ambush points.
+   - Description: Vast lunar landscape with open spaces and potential ambush points, this is where the game truely takes place.
 
 - **House:**
-   - ![House](insert_image_url_for_house_placeholder)
-   - Description: Abandoned lunar dwelling, providing both cover and challenges.
+   - Description: relaxing lunar dwelling, where the game starts and where the player respawns.
 
 - **Cave:**
-   - ![Cave](insert_image_url_for_cave_placeholder)
-   - Description: Dark lunar cavern with valuable resources and hidden dangers.
+   - Description: Dark lunar cavern with The old man moonshine shop, the upgrade bench, the distillery, and the fishing lake.
 
 ## UI Elements
 
